@@ -1,6 +1,6 @@
 # MultiSig Wallet - Decentralized Application
 
-Deployed at Vercel: https://dapp-6fig-eattheblocks-izkl.vercel.app/
+Deployed at Vercel: https://dapp-multisig.vercel.app/
 
 MultiSig Wallet - A wallet in which you can only make a transaction if multiple people (approvers) agree on the transaction | Solidity | NextJS | Truffle | Goerli (Testnet).
 
