@@ -82,9 +82,9 @@ module.exports = {
 			// Use 7545 port for a ganache node run via ganache.AppImage you run for a ui.
 			// port: 9545, // Standard Ethereum port (DEFAULT: none)
 			network_id: '*', // Any network (DEFAULT: none)
-			websockets: true,
-			// from: "", // default address to use for any transaction Truffle makes
-			// disableConfirmationListener: true, // (TRIED TO IMPROVE PERFORMANCE WITH THIS) set to true to disable web3's confirmation listener // src: https://trufflesuite.com/docs/truffle/reference/configuration/
+			// websockets: true,
+			//   from: <address>,        // Account to send transactions from (DEFAULT: accounts[0])
+			//   disableConfirmationListener: true, // (TRIED TO IMPROVE PERFORMANCE WITH THIS) set to true to disable web3's confirmation listener // src: https://trufflesuite.com/docs/truffle/reference/configuration/
 		},
 		//
 		// An additional network, but with some advanced options…
