@@ -80,7 +80,6 @@ module.exports = {
 			host: '127.0.0.1', // Localhost (DEFAULT: none)
 			port: 9545, // Standard Ethereum port (DEFAULT: none)
 			// Use 7545 port for a ganache node run via ganache.AppImage you run for a ui.
-			// port: 9545, // Standard Ethereum port (DEFAULT: none)
 			network_id: '*', // Any network (DEFAULT: none)
 			// websockets: true,
 			//   from: <address>,        // Account to send transactions from (DEFAULT: accounts[0])
